@@ -85,7 +85,7 @@ and needs to be placed in
 ---
 ## Conclusions
 
-- Udacity Review and Clara test drive upcoming.
+- Udacity Review and Clara successfully completed.
 
 ---
 ## Installation
@@ -123,9 +123,7 @@ docker run -p 4567:4567 -v $PWD:/capstone -v /tmp/log:/root/.ros/ --rm -it capst
 
 1. Clone the project repository
 ```bash
-git clone https://github.com/udacity/CarND-Capstone.git # for the initial repo
-# or 
-git clone https://github.com/AndysDeepAbstractions/Early_Birds_CarND-Capstone # for the Early_Birds Project repo
+git clone https://github.com/ArjaanBuijk/Early_Birds_CarND-Capstone
 ```
 
 2. Install python dependencies
